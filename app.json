@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-client",
-    "slug": "expo-client",
+    "name": "Elephant Map",
+    "slug": "elephant-map",
     "platforms": [
       "ios",
       "android",
